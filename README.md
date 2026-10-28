@@ -68,4 +68,5 @@ I'm currently interested in opportunities involving:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Fernando Machado](https://www.linkedin.com/in/fernando-machado8/)
-- 🌐 Portfolio: fernando-portfolio-pi.vercel.app
+- 🌐 Portfolio: [fernando-portfolio-pi.vercel.app](https://fernando-portfolio-pi.vercel.app)
+- 💻 GitHub: [fernandohmachado8](https://github.com/fernandohmachado8)
